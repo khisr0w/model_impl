@@ -1,0 +1,7 @@
+diffusion/data/*
+diffusion/dataset
+diet_transformer/vit_model.pth
+vision_transformer/vit_model.pth
+gpt/shakespeare_gpt.pt
+gan/lightning_logs
+gan/data/*
