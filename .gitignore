@@ -1,3 +1,4 @@
+data/*
 diffusion/data/*
 diffusion/dataset
 diet_transformer/vit_model.pth
