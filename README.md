@@ -6,3 +6,4 @@ A few deep learning model implementations I've coded at different points (based 
 - GAN Vanilla
 - GPT (Decoder Transformer)
 - Vision Transformer
+- Spatial Transformer Networks
