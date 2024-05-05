@@ -1,4 +1,4 @@
-# Model Imple.
+# Model Implementations
 
 A few deep learning model implementations I've coded at different points (based on my interest).
 - Diet transformer model
@@ -7,3 +7,4 @@ A few deep learning model implementations I've coded at different points (based 
 - GPT (Decoder Transformer)
 - Vision Transformer
 - Spatial Transformer Networks
+- PonderNet

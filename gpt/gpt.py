@@ -133,7 +133,6 @@ class Block(nn.Module):
         return x
 
 class GPT(nn.Module):
-    
     def __init__(self):
         super().__init__()
         # NOTE(Abid): each token would read a row of the embedding table
